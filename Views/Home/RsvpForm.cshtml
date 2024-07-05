@@ -1,0 +1,48 @@
+<!-- This is the view that Razor will look when it is invoked by the action ViewResult RsvpForm() -->
+
+@model PartyInvites.Models.GuestResponse //this model expects to recieve a GuestResponse Object as its view model
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>RsvpForm</title>
+</head>
+<body>
+    <div>
+        This is the muthafuckin' RsvpForm.cshtml view 
+    </div>
+    <div>
+        <form asp-action="RvspForm" method="post"> <!--the asp uses the apps URL config to set the action attribute to a URL that will target a specifc action method -->
+            <div>
+                <label asp-for="Name">Your name:</label> <!-- elements are tied to model properties using asp-for attributes. The tag helper will bind them together -->
+                <input asp-for="Name" />
+            </div>
+            <div>
+                <label asp-for="Email">Your email:</label>
+                <input asp-for="Email"/>
+            </div>
+            <div>
+                <label asp-for="Phone">Your phone:</label>
+                <input asp-for="Phone" />
+            </div>
+            <div>
+                <label asp-for="WillAttend">Will you attend?</label>
+                <select asp-for="WillAttend">
+                    <option value="">Choose and option</option>
+                    <option value="true">Yes, I will be there!!</option>
+                    <option value="false">No, I wont!!</option>
+                </select>
+            </div>
+        </form>
+        <button type="submit">Submit RSVP</button>
+    </div>
+
+        
+</body>
+</html>
