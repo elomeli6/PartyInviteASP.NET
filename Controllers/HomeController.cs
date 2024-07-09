@@ -26,7 +26,7 @@ public class HomeController : Controller
     [HttpPost]
     public ViewResult RsvpForm(GuestResponse guestResponse){
         Repository.AddResponse(guestResponse);
-        return View("Thanks",guestResponse); //Need to create a Thanks.cshtml RazorView
+        return View("Thanks", guestResponse); //Need to create a Thanks.cshtml RazorView
     }
 
 }
