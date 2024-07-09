@@ -1,9 +1,5 @@
 // This is temp storage to store guest responses
-using Microsoft.AspNetCore.Mvc;
-using PartyInvites.Models;
-
-
-namespace PartyInvites.Controllers{
+namespace PartyInvites.Models {
     public static class Repository {
         private static List<GuestResponse> responses = new();
 

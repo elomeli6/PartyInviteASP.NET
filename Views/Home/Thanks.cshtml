@@ -14,10 +14,13 @@
      <body>
             <div>
                 <h1>Thank you, @Model?.Name!</h1>
-                @if (Model?.WillAttend == true ){
+                @if (Model?.WillAttend == true )
+                {
                     @:It's great that you are coming.
                     @:The drinks are dank!! Lots of beer
-                }else {
+                }
+                else 
+                {
                     @:Sorry to hear that you can't make it,
                     @:but thanks for letting us know.
                 }
