@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nzTzQaUAjkGZ2gYVsdmewgweY89Y2k43TitbrKQ1mA4ZdD5XYkM4v8ZB4/4XD8A0EawSiYjamiNdJJphSzww9g==",
+  "dgSpecHash": "cgREvM4Pwf+12WzkTJ0rqMVlouMbicwZr7H5ZxIQ1MC37DQB4wfRRFYPlr4Dsm71WrgOqT4igILBVP4LKBSw/Q==",
   "success": true,
-  "projectFilePath": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInvites/PartyInvites.csproj",
+  "projectFilePath": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/PartyInvites.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

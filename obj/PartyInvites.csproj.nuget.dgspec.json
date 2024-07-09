@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInvites/PartyInvites.csproj": {}
+    "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/PartyInvites.csproj": {}
   },
   "projects": {
-    "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInvites/PartyInvites.csproj": {
+    "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/PartyInvites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInvites/PartyInvites.csproj",
+        "projectUniqueName": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/PartyInvites.csproj",
         "projectName": "PartyInvites",
-        "projectPath": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInvites/PartyInvites.csproj",
+        "projectPath": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/PartyInvites.csproj",
         "packagesPath": "/Users/elomeligil/.nuget/packages/",
-        "outputPath": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInvites/obj/",
+        "outputPath": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elomeligil/.nuget/NuGet/NuGet.Config"
