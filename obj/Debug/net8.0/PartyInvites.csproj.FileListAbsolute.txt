@@ -29,3 +29,14 @@
 /Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInvites/obj/Debug/net8.0/PartyInvites.pdb
 /Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInvites/obj/Debug/net8.0/PartyInvites.genruntimeconfig.cache
 /Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInvites/obj/Debug/net8.0/ref/PartyInvites.dll
+/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/obj/Debug/net8.0/PartyInvites.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/obj/Debug/net8.0/PartyInvites.AssemblyInfoInputs.cache
+/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/obj/Debug/net8.0/PartyInvites.AssemblyInfo.cs
+/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/obj/Debug/net8.0/PartyInvites.csproj.CoreCompileInputs.cache
+/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/obj/Debug/net8.0/PartyInvites.MvcApplicationPartsAssemblyInfo.cache
+/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/obj/Debug/net8.0/PartyInvites.RazorAssemblyInfo.cache
+/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/obj/Debug/net8.0/PartyInvites.RazorAssemblyInfo.cs
+/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/obj/Debug/net8.0/PartyInvites.sourcelink.json
+/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/obj/Debug/net8.0/PartyInvites.dll
+/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/obj/Debug/net8.0/refint/PartyInvites.dll
+/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/obj/Debug/net8.0/PartyInvites.pdb
