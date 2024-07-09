@@ -1,3 +1,5 @@
+// This is temp storage to store guest responses
+
 namespace PartyInvites.Models {
     public static class Repository {
         private static List<GuestResponse> responses = new();
