@@ -10,7 +10,8 @@ namespace PartyInvites.Models {
 
         [Required(ErrorMessage = "Please enter your name")]
         public string? Name { get; set; } //All properties are nullable -> ?
-        [Required(ErrorMessage = "Please enter your email address")[EmailAddress]]
+        [Required(ErrorMessage = "Please enter your email address")]
+        [EmailAddress]
         public string? Email { get; set;}
         [Required(ErrorMessage ="Please enter valid phone number")]
         public string? Phone { get; set;}

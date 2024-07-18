@@ -25,8 +25,13 @@ public class HomeController : Controller
     //means that it will handle Post request
     [HttpPost]
     public ViewResult RsvpForm(GuestResponse guestResponse){
+        if (ModelState.IsValid) {
         Repository.AddResponse(guestResponse);
         return View("Thanks", guestResponse); //Need to create a Thanks.cshtml RazorView
+    }
+    else {
+        return View();
+    }
     }
     
     public ViewResult ListResponses () {
