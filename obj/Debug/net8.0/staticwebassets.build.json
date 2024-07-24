@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vbfrQgJOaXBck/x+e13lqnAkA+8qjLaIax0iYfEj93Q=",
+  "Hash": "RpUz+ZIZIdYEtThSm/dVJNStEb1Tk2eojU8RtSXpAKA=",
   "Source": "PartyInvites",
   "BasePath": "_content/PartyInvites",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/wwwroot/css/styles.css",
+      "SourceId": "PartyInvites",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/wwwroot/",
+      "BasePath": "_content/PartyInvites",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/styles.css"
     },
     {
       "Identity": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/wwwroot/favicon.ico",

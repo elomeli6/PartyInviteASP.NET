@@ -6,16 +6,14 @@ make up the universe of the application and the methods to manipulate them.
 
 using System.ComponentModel.DataAnnotations; //This is the libray/namespace that allows to access validation rules known as attributes that .NET uses to validate data during the Model Binding Process
 namespace PartyInvites.Models {
-    public class GuestResponse {
-
+   public class GuestResponse {
         [Required(ErrorMessage = "Please enter your name")]
-        public string? Name { get; set; } //All properties are nullable -> ?
-        [Required(ErrorMessage = "Please enter your email address")]
-        [EmailAddress]
-        public string? Email { get; set;}
-        [Required(ErrorMessage ="Please enter valid phone number")]
-        public string? Phone { get; set;}
-        [Required(ErrorMessage ="Please specify if you will attend")]
-        public bool? WillAttend {get; set;}
+        public string? Name { get; set; }
+[       Required(ErrorMessage = "Please enter your email address")] [EmailAddress]
+        public string? Email { get; set; }
+        [Required(ErrorMessage = "Please enter your phone number")]
+        public string? Phone { get; set; }
+        [Required(ErrorMessage = "Please specify whether you'll attend")]
+        public bool? WillAttend { get; set; }
     }
 }
