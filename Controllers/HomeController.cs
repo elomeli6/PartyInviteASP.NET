@@ -28,13 +28,15 @@ public class HomeController : Controller
         if (ModelState.IsValid) {
         Repository.AddResponse(guestResponse);
         return View("Thanks", guestResponse); //Need to create a Thanks.cshtml RazorView
-    }
-    else {
-        return View();
-    }
+        }
+        else 
+        {
+        return View(); // calling View() with no parameters will display all errors since Razer has access to all Validation errors used
+        }
     }
     
     public ViewResult ListResponses () {
         return View(Repository.Responses.Where(r => r.WillAttend == true));
     }
+    
 }

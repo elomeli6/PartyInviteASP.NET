@@ -12,6 +12,7 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>RsvpForm</title>
+    <link rel="stylesheet" href="/css/styles.css" />
 </head>
 <body>
     <div>
@@ -19,7 +20,7 @@
     </div>
     <div>
         <form asp-action="RsvpForm" method="post"> <!--the asp uses the apps URL config to set the action attribute to a URL that will target a specifc action method -->
-            <div asp-validation-summary="All"></div> <!--Razor has access to validation errors associated with request and tag helpers can access details to display validation erroes -->
+            <div asp-validation-summWeary="All"></div> <!--The asp-validation-summary attribute is applied to a div element, and it displays a list of validation errors when the view is rendered.  -->
             <div>
                 <label asp-for="Name">Your name:</label> <!-- elements are tied to model properties using asp-for attributes. The tag helper will bind them together -->
                 <input asp-for="Name" />
