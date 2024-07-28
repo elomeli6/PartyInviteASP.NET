@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/elomeligil/.nuget/packages/": {}
+    "/Users/minitech/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/PartyInvites.csproj",
+      "projectUniqueName": "/Users/minitech/Documents/Git/PartyInviteASP.NET/PartyInvites.csproj",
       "projectName": "PartyInvites",
-      "projectPath": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/PartyInvites.csproj",
-      "packagesPath": "/Users/elomeligil/.nuget/packages/",
-      "outputPath": "/Users/elomeligil/Documents/ASPNet/ch3PartyInvites/PartyInviteASP.NET/obj/",
+      "projectPath": "/Users/minitech/Documents/Git/PartyInviteASP.NET/PartyInvites.csproj",
+      "packagesPath": "/Users/minitech/.nuget/packages/",
+      "outputPath": "/Users/minitech/Documents/Git/PartyInviteASP.NET/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/elomeligil/.nuget/NuGet/NuGet.Config"
+        "/Users/minitech/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
